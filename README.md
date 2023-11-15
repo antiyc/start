@@ -61,6 +61,61 @@ Mentors - give a talk, guide us, help us not fuck up or cook us a meal.
 
 Press - write things that get clicks.
 
+## Our Thesis
+In the next century, the landscape of trillion-dollar companies will undergo a radical transformation. These behemoths of tomorrow won’t emerge from the well-trodden paths of San Francisco or under the auspices of Y Combinator (YC). Instead, they will be the brainchildren of the overlooked and underappreciated – the rejects, misfits, and weirdos who think outside conventional paradigms.
+
+## Founding Locations:
+
+Apple - Cupertino, California, USA
+
+Microsoft - Albuquerque, New Mexico, USA
+
+Saudi Aramco - Dhahran, Saudi Arabia
+
+Alphabet (Google) - Menlo Park, California, USA
+
+Amazon - Bellevue, Washington, USA
+
+Tesla - San Carlos, California, USA
+
+Berkshire Hathaway - Omaha, Nebraska, USA
+
+UnitedHealth Group - Minnetonka, Minnesota, USA
+
+Johnson & Johnson - New Brunswick, New Jersey, USA
+
+ExxonMobil - Irving, Texas, USA (originally Standard Oil, founded in Cleveland, Ohio, USA)
+
+NVIDIA - Santa Clara, California, USA
+
+Meta Platforms (Facebook) - Cambridge, Massachusetts, USA
+
+TSMC - Hsinchu, Taiwan
+
+Visa - San Francisco, California, USA - The ONLY one!
+
+Walmart - Rogers, Arkansas, USA
+
+JPMorgan Chase - New York, New York, USA
+
+Samsung Electronics - Suwon, South Korea
+
+Procter & Gamble - Cincinnati, Ohio, USA
+
+Bank of America - Charlotte, North Carolina, USA
+
+Alibaba - Hangzhou, China
+
+Mastercard - Purchase, New York, USA
+
+Pfizer - New York, New York, USA
+
+Taiwan Semiconductor Manufacturing Company (TSMC) - Hsinchu, Taiwan
+
+Tencent - Shenzhen, China
+
+Kweichow Moutai - Renhuai, Guizhou, China
+
 ## The Deal
 $1.00 USD for 1% SAFE and you get 1/x of the fund. x is the number of startups who join antiyc. eg for x = 10 startups, you get 1/10th the fund. We then help each other maximize our fund's valuation.
 
@@ -85,7 +140,7 @@ Are you looking for investors?
 No. Yes. Maybe? Join us on Demo Day.
 
 ycombinator()
-tell us this... why don't the founders of ycombinator() run ycombinator() for founders? https://web.archive.org/web/20050324095016/http://ycombinator.com/about.html
+tell us this... why don't the founders of ycombinator() run ycombinator() for founders? https://web.archive.org/web/20050324095016/http://ycombinator.com/about.html https://www.ycombinator.com/people
 
 ## Contact
 Just leave a comment or Discord: https://discord.gg/rSk9yACu
@@ -102,7 +157,7 @@ Copyright and Trademarks: Embracing the spirit of open-source, all content on th
 AntiYC is the Dumb Starbucks of the VC world: https://youtu.be/Bo_deCOd1HU?si=ngWXy_H5mskjXtYC
 
 ## flag color: 00bfff
-
+https://www.invertcolors.net/
 ## PRs
 Make PRs.
 
