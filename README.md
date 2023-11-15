@@ -95,6 +95,8 @@ Terms of Use: Straightforward and user-friendly - when you click a link on our s
 
 Copyright and Trademarks: Embracing the spirit of open-source, all content on this site is freely available for sharing, remixing, and repurposing under suitable open-source licenses. "AntiYC" and "Founders Program" are terms associated with our initiative, used to describe our unique approach to startup incubation.
 
+AntiYC is the Dumb Starbucks of the VC world: https://youtu.be/Bo_deCOd1HU?si=ngWXy_H5mskjXtYC
+
 ## flag color: 00bfff
 
 ## PRs
