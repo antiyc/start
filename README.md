@@ -1,6 +1,7 @@
 # 🏴‍☠️
 
-# start here
+# ANTI YC
+Make something rejects want.
 
 www.antiyc.com
 
@@ -10,7 +11,7 @@ Ahoy, YC rejects and startup outcasts! Welcome aboard AntiYC – not just anothe
 
 We are the 98%, the relentless hackers, and builders working beyond the constraints of 9-to-5. Our journey is carved from rejection and failure, the lifeblood of our ambition. We're the unseen, the underdogs, the ones laughed out of the room, poised to topple Goliaths.
 
-Here's our creed:
+## Here's our creed:
 
 ### Freedom:
 You're the captain of your ship, steering your course in your time. No desks, no traditional hours. Just build, chip away, and climb.
@@ -30,7 +31,7 @@ At AntiYC, we embrace the strange, the resilient, the pioneers before they becam
 
 We seek teams – a blend of seasoned and fresh pirates. All rejects welcome. Show us you're more than talk, able to navigate more than just 'Blub' seas. Be ready to adapt, as sticking rigidly to your original course might mean sailing blind.
 
-Our manifesto is clear:
+# Our manifesto is clear:
 
 ### Solidarity:
 An armada of scrappy pirate ships, each owning a proportional piece of the fleet.
@@ -53,8 +54,11 @@ Demo day works like this,
 ## CALLING ALL:
 
 Degenerate - founders, rejects, captains of ships.
+
 Investors - wire degenerates money, join in the booty!
+
 Mentors - give a talk, guide us, help us not fuck up or cook us a meal.
+
 Press - write things that get clicks.
 
 ## The Deal
@@ -78,7 +82,7 @@ Why only $1?
 It's not about the money silly.
 
 Are you looking for investors?
-No. Join us on Demo Day.
+No. Yes. Maybe? Join us on Demo Day.
 
 ycombinator()
 tell us this... why don't the founders of ycombinator() run ycombinator() for founders? https://web.archive.org/web/20050324095016/http://ycombinator.com/about.html
@@ -104,3 +108,6 @@ Make PRs.
 
 ## Resources
 (make a PR and add high quality navigational tools)
+
+## Rejects
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=rejected%20yc&sort=byPopularity&type=all
