@@ -1,33 +1,56 @@
-🏴‍☠️
+# 🏴‍☠️
 
 # start here
 
 www.antiyc.com
 
-Welcome to AntiYC, where being a YC reject is your golden ticket.
+Welcome to the Pirate Manifesto of AntiYC
 
-We're not just another VC, we're not even a VC, we're a motley crew of YC cast-offs betting big that our gang of misfits will outshine the polished, overpriced YC breed. Our only entry fee? Your YC rejection slip.
+Ahoy, YC rejects and startup outcasts! Welcome aboard AntiYC – not just another VC, not even a VC. We're a motley crew of misfits, united by our YC rejection slips, ready to outshine the overhyped YC elite.
 
-Here's our battle cry: We believe the true mavericks, the young hacker rejects, are destined to build the world’s most groundbreaking companies. It's you reading this. Rejection isn’t just part of our journey; it’s our badge of honor, the fuel for our fire, the chip on our shoulder. This isn’t just a quirky experiment; it's a rebellion with a purpose.
+We are the 98%, the relentless hackers, and builders working beyond the constraints of 9-to-5. Our journey is carved from rejection and failure, the lifeblood of our ambition. We're the unseen, the underdogs, the ones laughed out of the room, poised to topple Goliaths.
 
-At AntiYC, we embrace the underdogs—the ones who don’t fit the mold, who wear mismatched socks, and whom other people call strange or weird. We’re the relentless, the resilient, the ones laughed out of the room. We're the pesky fly that refuses to be swatted, the pebble poised to topple Goliaths.
+Here's our creed:
 
-Our manifesto? We don't promise an easy ride. Instead, we offer solidarity in an armada of scrappy pirate ships. We're the trench fighters, the frontline warriors, the ones who rise from the ashes of rejection to change the damn world. We are at the pointy end.
+### Freedom:
+You're the captain of your ship, steering your course in your time. No desks, no traditional hours. Just build, chip away, and climb.
+### Support:
+We handle the mundane – incorporation, bank accounts, basic agreements. Patent advice? On the house.
 
-Join us and sign a 1% SAFE for $1.00 USD. It's not about the money. You'll own a proportional piece of the whole motley fleet, just like every other proud degenerate here. We're the first dollar in your war chest.
+### Community:
+Join our weekly feasts, mingle with fellow founders, and learn from seasoned tech, business, and legal pirates.
 
-And the master plan? We'll trade software and tools among ourselves, generating mad ARR and MRR, ready to take the business world by storm. We're not just a club; we're a revolution.
+### Mentorship:
+Savvy mentors are ready to parley about your plans and ideas. Plunder as much as you can from our network and advice.
 
-This is the Pirate Manifesto of AntiYC. Join us, and let's show the world what the rejects can really do.
+### Flexibility:
+Your venture, your call. Mothball, keep sailing, or dissolve with no hard feelings. If you show promise and guts, we're here to back you, $1USD at a time.
 
-🏴‍☠️💥🚀
+At AntiYC, we embrace the strange, the resilient, the pioneers before they became known. We're not about controlling your board or CEO choice. Work from wherever, because greatness can sprout from the most unlikely places.
 
+We seek teams – a blend of seasoned and fresh pirates. All rejects welcome. Show us you're more than talk, able to navigate more than just 'Blub' seas. Be ready to adapt, as sticking rigidly to your original course might mean sailing blind.
+
+Our manifesto is clear:
+
+### Solidarity:
+An armada of scrappy pirate ships, each owning a proportional piece of the fleet.
+### Innovation:
+Trading software and tools, generating mad ARR and MRR, ready to take the business galaxy by storm.
+### Venture:
+Real funding for real ventures. We're in it for the gold, not just the glory. Bring ideas that conquer, not just entertain.
+
+This isn't just a quirky experiment or a wild sail. It's a revolution, a rebellion with a purpose. Join us at AntiYC, sign a 1% SAFE for $1.00 USD, and let's show the world what the rejects can really do.
+
+🏴‍☠️💥🚀 Dive in, startup pirates! The sea of opportunity awaits.
+
+## DEMO DAY
 4 Demo Days per Year on the Solstices and Equinoxes starting in 2024: https://www.timeanddate.com/calendar/seasons.html
 
 Investors get invite here: https://discord.gg/rSk9yACu
 
+Demo day works like this,
 
-CALLING ALL:
+## CALLING ALL:
 
 Degenerate - founders, rejects, captains of ships.
 Investors - wire degenerates money, join in the booty!
@@ -39,36 +62,6 @@ $1.00 USD for 1% SAFE and you get 1/x of the fund. x is the number of startups w
 
 ## The bet
 We bet anyone $1 that our sub $1,000 fund outperforms the W23 YC batch over 10 years.
-
-## AntiYC AntiClub
-
-Ahoy, startup outcasts and YC rejects! Welcome to AntiYC's first foray: funding a horde of rebellious startups.
-
-Think of us as you. You won't be shackled to an office desk at 9 AM. Instead, you're the captain of your ship, working on your time, in your space. We throw you the loot – seed funding, not a salary – not enough, it's $1. But it was never about the money, it's about outsiders becoming insiders. The chosen few, the 2%. The community. We're the other 98%, the employees working nights and weekends, building, building, building while your doing whatever it is your doing. We don't think in 24/7/365 or 996 or Q or month. We're just fucking building. Chipping away. Climbing. At the pointy end. Rejection and failure is our lifeblood. We're the person before they were that person. The human underneath, behind the curtain, mostly invisible. By design.
-
-What happens when light fades? Your call, captain. Mothball, keep sailing, or dissolve it – no hard feelings. If your venture shows promise and you've got the guts to continue, we'll be there, ready to help you plunder more funding. $1USD at a time. If you fail, join another ship.
-
-Here's the deal for the accepted scallywags: we handle the boring stuff. Incorporation, bank accounts, basic agreements – consider it done. Patent advice is on the house too, but that's for later worries.
-
-Our crew of savvy mentors is ready to parley about your plans, pitfalls, and bright ideas. You'll have access to our network, but how much you plunder from our connections and advice is your call.
-
-We'll rally once a week for a feast, a chance to mingle with fellow founders and hear tales from seasoned tech, business, or legal pirates. But don't expect us to meddle in your affairs like those traditional VC landlubbers. We're not about controlling your board or your CEO choice. Work from whatever den or hideout you find; many great ventures have started in such lairs.
-
-Anyone can join, but we're on the lookout for teams – a blend of seasoned and fresh pirates. We value people over everything. Show us you're more than just talk, that you can navigate more than just 'Blub' seas.
-
-We expect you to start with a plan but be ready to steer as the winds change. Sticking rigidly to your original course might just mean you're sailing blind.
-
-No need for formal plans; just join our cause. If we like your spirit, we'll invest directly in you first, to get you set up. If you're not yet a formal crew (incorporated), we'll help you get there. The treasure – funding – is yours to use as you deem fit for your venture.
-
-We're betting on a few, so we're not throwing heaps of gold at each crew. We're keeping it lean – think of it as more swashbuckling, less baggage.
-
-This isn't just a wild sail; it's real venture funding. We're in it for the gold, not just the glory. So, bring us ideas that promise more than just a good time. Show us you're here to conquer the startup seas.
-
-Dive in, startup pirates! The sea of opportunity awaits. 🏴‍☠️🚀💰
-
-## Resources
-(make a PR and add high quality navigational tools)
-
 
 ## Frequently Asked Questions
 
@@ -104,6 +97,8 @@ Copyright and Trademarks: Embracing the spirit of open-source, all content on th
 
 ## flag color: 00bfff
 
-
 ## PRs
 Make PRs.
+
+## Resources
+(make a PR and add high quality navigational tools)
